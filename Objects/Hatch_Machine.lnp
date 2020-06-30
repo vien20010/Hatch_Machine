@@ -7,6 +7,7 @@
 ".\objects\stm32f4xx_i2c.o"
 ".\objects\dht12.o"
 ".\objects\systick.o"
+".\objects\i2c.o"
 ".\objects\startup_stm32f40_41xxx.o"
 --strict --scatter ".\Objects\Hatch_Machine.sct"
 --summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
